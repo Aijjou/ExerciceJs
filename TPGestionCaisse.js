@@ -70,6 +70,7 @@ function displayMenuProduit(methodAffichage) {
 }
 
 
+
 function displayMenuPanier(methodAffichage) {
     methodAffichage("1- Ajouter un produit au panier")
     methodAffichage("2- Supprimer un produit du panier")
