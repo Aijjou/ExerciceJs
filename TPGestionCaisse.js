@@ -69,6 +69,7 @@ function displayMenuProduit(methodAffichage) {
     methodAffichage("4- Retour au menu principal")
 }
 
+
 function displayMenuPanier(methodAffichage) {
     methodAffichage("1- Ajouter un produit au panier")
     methodAffichage("2- Supprimer un produit du panier")
